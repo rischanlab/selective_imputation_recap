@@ -1,0 +1,8 @@
+1 dbmcp
+2 dbm_cp_thal
+3 dbm_cp_thal_slope
+4 dbmca 
+5 dbmca_oldpeak
+6 dbmca_oldpeak_restbp
+7 db6 all
+8 missing 30% no impute

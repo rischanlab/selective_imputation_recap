@@ -1,0 +1,15 @@
+Note Heart Disease
+
+5 [['thal', 'cp', 'slope'], ['oldpeak', 'thalach', 'restbp', 'ca']] 7
+
+10 [['thal', 'cp', 'slope', 'exang'], ['oldpeak', 'thalach', 'restbp', 'ca', 'chol', 'age']] 10
+
+15 [['thal', 'cp', 'slope', 'exang'], ['oldpeak', 'thalach', 'restbp', 'ca', 'chol', 'age']] 10
+
+20 [['thal', 'cp', 'slope', 'exang'], ['oldpeak', 'thalach', 'restbp', 'ca', 'chol', 'age']] 10
+
+25 [['thal', 'cp', 'slope', 'exang', 'restecg'], ['oldpeak', 'thalach', 'restbp', 'ca', 'chol', 'age']] 11
+
+
+30 [['thal', 'cp', 'slope', 'exang', 'restecg', 'sex'], ['oldpeak', 'thalach', 'restbp', 'ca', 'chol', 'age']]
+

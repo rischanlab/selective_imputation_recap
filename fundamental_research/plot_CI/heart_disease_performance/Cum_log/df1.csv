@@ -1,0 +1,8 @@
+k,measurement,mean,lb,ub
+0,Cumulative_distance,1,1,1
+5,Cumulative_distance,1,1,1
+10,Cumulative_distance,1,1,1
+15,Cumulative_distance,0.96935416,0.956637942,0.972070378
+20,Cumulative_distance,0.948145209,0.927830937,0.95845948
+25,Cumulative_distance,0.938470316,0.894581872,0.952358759
+30,Cumulative_distance,0.918470316,0.899581872,0.962358759
